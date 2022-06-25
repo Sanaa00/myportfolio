@@ -1,0 +1,9 @@
+.home-nav {
+    text-decoration: none;
+  }
+  #ourimage{
+    height: auto;
+    width: auto;
+    all: "your image appear here ...";
+    border: 3px solid black;
+  }
